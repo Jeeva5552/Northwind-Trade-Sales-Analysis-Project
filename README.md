@@ -50,7 +50,7 @@ The *Northwind Company* wants to gain data-driven insights into its sales and op
 
 ## 🖼 Dashboard Preview  
 
-![Northwind Dashboard](./Sample.png)
+![Northwind Dashboard](./Sample1.jpg)
 
 ## 💡 Key Insights  
 
